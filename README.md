@@ -1,5 +1,5 @@
 ### Hey there, I'm **SameGevDudios**! 👋  
-#### 🧩 Unity & C# Backend Developer
+#### 🧩  C# & Dart Developer
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameGevDudios&layout=donut&theme=dark)
 ![SameGevDudios GitHub Stats](https://github-readme-stats.vercel.app/api?username=SameGevDudios&show_icons=true&theme=dark)
@@ -17,9 +17,11 @@
 ![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Mono](https://img.shields.io/badge/Mono-9933CC?style=for-the-badge&logo=mono&logoColor=white)
 
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
