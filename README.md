@@ -1,8 +1,5 @@
 ### Hey there, I'm **SameGevDudios**! 👋  
 #### 🧩  C# & Dart Developer
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameGevDudios&layout=donut&theme=dark)
-![SameGevDudios GitHub Stats](https://github-readme-stats.vercel.app/api?username=SameGevDudios&show_icons=true&theme=dark)
 
 ---
 
